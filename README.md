@@ -6,5 +6,5 @@ NW.dll needed to run the build.<br>
 https://www.dllme.com/dll/files/nw
 <br><br>
 
-![print-puto](https://github.com/user-attachments/assets/47ec3980-3ec1-4cbc-811e-5110b5972997)
+![print-puto](https://github.com/user-attachments/assets/47d9a583-2762-43cc-8e2b-3803f083a577)
 
